@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/preview/hero.png" alt="Pengalaman Belajar Git — ilustrasi jurnal belajar" width="100%">
+  <img src="docs/preview/hero.svg" alt="Pengalaman Belajar Git — ilustrasi jurnal belajar" width="100%">
 </p>
 
 <h1 align="center">Pengalaman Belajar Git</h1>
